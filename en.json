@@ -1,0 +1,423 @@
+{
+  "translation": {
+    "title": "LiFE Lighting EN",
+    "c": {
+      "device": "Device",
+      "name": "Name",
+      "id": "ID",
+      "light": "Light",
+      "lightgroup": "Light Group",
+      "curtain": "Curtain",
+      "curtaingroup": "Curtain Group",
+      "curtaingrouptype": "Curtain Group Type",
+      "address": "Address",
+      "addr": "Addr",
+      "link": "Link",
+      "room": "Room",
+      "group": "Group",
+      "scene": "Scene",
+      "schedule": "Schedule",
+      "user": "User",
+      "devices": "Devices",
+      "rooms": "Rooms",
+      "groups": "Groups",
+      "scenes": "Scenes",
+      "schedules": "Schedules",
+      "users": "Users",
+      "controller": "Controller",
+      "ipaddress": "IP Address",
+      "photo": "Photo",
+      "time": "Time",
+      "date": "Date",
+      "roomsecurity": "Room Security",
+      "instantlighting": "Instant Lighting",
+      "backup": "Backup",
+      "displayname": "Display Name",
+      "roomdetails": "Room Details",
+      "addroom": "Add Room",
+      "addscene": "Add Scene"
+    },
+    "light": {
+      "fadetime": "Fade Time (in second)",
+      "min": "Min.",
+      "max": "Max.",
+      "level": "Level",
+      "brightness": "Brightness",
+      "poweron": "Power On Level",
+      "hide": "Hide",
+      "show": "Show",
+      "advanced": "Advanced Settings",
+      "minimumdevicelevel": "Minimum Device Level",
+      "toggleoff": "Toggle Off",
+      "repeated": "Repeated"
+    },
+    "curtain": {
+      "connectSomfy": "Connect Somfy",
+      "connectSomfyCloud": "Connect with Somfy",
+      "connectHunter": "Connect with Hunter Douglas",
+      "ltr": "Left to Right",
+      "rtl": "Right to Left",
+      "samebrandtype": "Same Model",
+      "centeropening": "Center Opening"
+    },
+    "controller": {
+      "connected": "Connected",
+      "reboot": "System Reboot",
+      "restart": "Hardware Restart",
+      "configip": "Configure IP Address",
+      "disconnect": "Disconnect",
+      "makingchange": "Making Change",
+      "systemrestarting": "System Restarting",
+      "currentip": "Current IP",
+      "dhcp": "DHCP",
+      "ipmask": "IP Address/Mask",
+      "gateway": "Gateway",
+      "dns": "DNS Servers",
+      "message": {
+        "correctip": "Please enter a correct IP Address",
+        "entermask": "Please enter the netmask. e.g. 10.0.0.2/24",
+        "entergateway": "Please enter a correct Gateway Address",
+        "enterdns": "Please enter correct DNS Servers",
+        "readytochange": "Are you sure to make the change? The controller will be restarted after the change.",
+        "discovernew": "Discover the controller with new IP address after it restarted.",
+        "completed": "Configure IP Address completed. Please login again.",
+        "searchagain": "Fail to connect the system. Now searching for the controller."
+      }
+    },
+    "ui": {
+      "connect": "Connect",
+      "choose": "Choose",
+      "search": "Search",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "username": "Username",
+      "password": "Password",
+      "login": "Login",
+      "admin": "Admin",
+      "reenter": "Re-enter",
+      "nickname": "Nickname",
+      "system": "System",
+      "update": "Update",
+      "retry": "Retry",
+      "details": "Details",
+      "hidden": "hidden",
+      "confirmation": "Confirmation",
+      "yes": "Yes",
+      "no": "No",
+      "edit": "Edit",
+      "save": "Save",
+      "query": "Query",
+      "download": "Download",
+      "set": "Set",
+      "reset": "Reset",
+      "ok": "OK",
+      "restore": "Restore",
+      "loading": "Loading",
+      "saving": "Saving",
+      "discovering": "Discovering",
+      "removing": "Removing",
+      "restoring": "Restoring",
+      "restarting": "Restarting",
+      "synchronizing": "Synchronizing",
+      "create": "Create",
+      "new": "New",
+      "remove": "Remove",
+      "delete": "Delete",
+      "restricted": "Restricted",
+      "preview": "Preview",
+      "init": "Initialize",
+      "sync": "Synchronize",
+      "scan": "Scan",
+      "discover": "Discover",
+      "loggedout": "You are logged out.",
+      "appversion": "App Version",
+      "remote": "Remote Support",
+      "copied": "Copied",
+      "openremote": "Open Remote Tunnel",
+      "terminate": "Terminate",
+      "completed": "Completed",
+      "enable": "Enable",
+      "active": "Active",
+      "inactive": "Inactive",
+      "all": "All"
+    },
+    "dow": {
+      "sun": "Sun",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat"
+    },
+    "language": "Language",
+    "e": {
+      "networkfailure": "Network Failure.",
+      "somethingwentwrong": "Something went wrong! Please try again."
+    },
+    "screen": {
+      "welcome": {
+        "getstart": "Let's Get Started!",
+        "searchcontroller": "Search Controller"
+      },
+      "discovercontroller": {
+        "title": "Discovering LiFE Controller",
+        "inputIP": "Input IP Address",
+        "searchagain": "Search again",
+        "finish": "Finish",
+        "remote": "Remote",
+        "remotecode": "Remote Code",
+        "message": {
+          "notfound_ios": "There is no controller in the network. \n\nPlease make sure you allow the app to access Local Network \n (Check your iOS settings). \n\n",
+          "notfound": "There is no controller in the network.\n\n",
+          "remotecodeincorrect": "The remote code is incorrect.",
+          "enterremotecode": "Enter the remote code"
+        }
+      },
+      "login": {
+        "title": "Login",
+        "message": {
+          "enterusername": "Please enter your username.",
+          "enterpassword": "Please enter your password.",
+          "fail": "Login failed."
+        }
+      },
+      "home": {
+        "welcome": "Welcome",
+        "tabhome": "Home",
+        "tabsetting": "Settings",
+        "updaterequired": "Update Required",
+        "updatemessage": "The app requires a newer version of controller. Please update your now.",
+        "networkfailure": "Fail to connect controller. Do you want to retry?"
+      },
+      "device": {
+        "message": {
+          "enterdevicename": "Please input device name!",
+          "hidedevice": "Are you sure to hide this device?",
+          "showdevice": "Are you sure to show this device?",
+          "minlevelset": "Minimum Level Set.",
+          "enterminlevel": "Please input the minimum level."
+        }
+      },
+      "room": {
+        "newhabit": "New Habit",
+        "message": {
+          "enterroomname": "Please input room name!",
+          "pleaseselectdevice": "Please select at least 1 device!",
+          "delete": "Are you sure to delete this room?",
+          "subscribedinstantlighting": "is subscribed to Instant Lighting. Please unsubscribe first.",
+          "updateroomsecurity": "Update Room Security Fail. Please try again later"
+        }
+      },
+      "group": {
+        "message": {
+          "max16groups": "System only allow 16 groups in single bus!",
+          "entergroupname": "Please input group name!",
+          "select2devices": "Please select at least 2 devices!",
+          "delete": "Are you sure to delete this group?",
+          "samecurtaintype": "Please select curtains are in same brand and type",
+          "correctcurtaintype": "Please select curtains are in correct type"
+        }
+      },
+      "scene": {
+        "message": {
+          "duplicatedevices": "exists in more than one group!",
+          "devicesexistingroup": "exists in selected group!",
+          "enterscenename": "Please input scene name!",
+          "pleaseselectdevice": "Please select at least 1 device!",
+          "delete": "Are you sure to delete this scene?"
+        }
+      },
+      "schedule": {
+        "message": {
+          "enterschedulename": "Please input schedule name!",
+          "selectdow": "Please select day of week for repeated schedule!",
+          "selectscene": "Please select scene!",
+          "selectdevice": "Please select at least 1 device!",
+          "duplicatedevices": "exists in more than one group!",
+          "devicesexistingroup": "exists in selected group!",
+          "delete": "Are you sure to delete this schedule?"
+        }
+      },
+      "user": {
+        "message": {
+          "enterlogin": "Please input login!",
+          "loginused": "The login name has been used!",
+          "enternickname": "Please input nickname!",
+          "enterpassword": "Please input password!",
+          "must6char": "Password must at least 6 characters!",
+          "passwordnotmatch": "Password confirmation doesn't match Password!",
+          "delete": "Are you sure to delete this user?"
+        }
+      },
+      "controller": {
+        "message": {
+          "reboot": "Are you sure to restart the system?",
+          "errorreboot": "There is an error during system reboot!",
+          "restart": "Are you sure to restart the controller? \n (Notes: It takes longer time to resume.\n If you are using DHCP, the IP Address of the controller may be changed.)",
+          "failtoreconnect": "Fail to connect the system. Now searching for the controller.",
+          "errorretart": "There is an error during system reboot!",
+          "restarting": "Restarting System"
+        }
+      },
+      "instantlighting": {
+        "roomsforIL": "Rooms for Instant Lighting",
+        "norooms": "No room is configured for Instant Lighting.",
+        "message": {
+          "unsuberror": "You are unsubscribing an active room. Please disable it first!"
+        }
+      },
+      "init": {
+        "message": {
+          "init": "Are you ready to initialize the system?",
+          "adding": "Adding to the system",
+          "added": "Device added",
+          "scan": "Scan through the network and re-assign addresses for all devices.",
+          "scan2links": "* Long press the button if your system contains more than 1 link"
+        }
+      },
+      "scan": {
+        "message": {
+          "adding": "Adding to the system",
+          "readytodiscover": "Are you ready to start discovering new device?",
+          "added": "Device added",
+          "readytodiscover2links": "Are you ready to start discovering new device in two links?",
+          "discover": "Scan through the lighting network and search for devices. (~ 20 seconds)",
+          "discover2links": "* Long press the button if your system contains more than 1 link"
+        }
+      },
+      "remove": {
+        "message": {
+          "readytoremove": "Are you sure to remove disconnected device?",
+          "removed": "Device removed",
+          "scanandremove": "This action will scan through the system and remove disconnected device."
+        }
+      },
+      "remote": {
+        "message": {
+          "readytoopenremote": "Are you sure to open a support tunnel?",
+          "remoteterminated": "Remote session terminated.",
+          "remoteinstruction": "This action will open a remote tunnel. Forward the code to your support. \nPlease do not leave it open, terminate it after the use."
+        }
+      },
+      "devicenaming": {
+        "title": "Device Naming",
+        "message": {
+          "completed": "Device Naming Completed."
+        }
+      },
+      "programaddress": {
+        "title": "Program Location",
+        "makechange": "Make Change",
+        "makingchange": "Making Change",
+        "resolveduplicateaddr": "Resolve Duplicate Addresses",
+        "resolveduplicates": "Resolve Duplicates",
+        "resolving": "Resolving Duplicates",
+        "message": {
+          "entervalidaddress": "Please enter valid address (0-50)",
+          "entervalidnewaddress": "Please input new address to perform the change. Address must be in 0-50.",
+          "readytochange": "Are you sure to change the device address?",
+          "duplicateaddress": "You have entered a duplicate address in link",
+          "readytoresolve": "Are you sure to resolve the Address",
+          "resolveduplicates": "Enter the address that duplicates occur. Note: You cannot undo this action.",
+          "resolvedanddiscover": "Resolved! Discovering Devices",
+          "devicenotinsystem": "* Device not yet added to the system",
+          "completed": "Program Address completed.",
+          "notenoughaddress": "Not enough temp address to use for program addresses"
+        }
+      },
+      "restoreconfig": {
+        "title": "Restore Configurations",
+        "message": {
+          "selectdevice": "Please select device!",
+          "restorecomplete": "Restore completed"
+        }
+      },
+      "backup": {
+        "title": "Backup",
+        "message": {
+          "desc": "This action will redirect you to web browser to download the backup of the system, please keep it by your own."
+        }
+      },
+      "restorebackup": {
+        "title": "System Recover",
+        "desc": "This action will restore the system from your upload, all data and configurations will be lost. Please backup your system first.\n\nRecommend to recover all locations to synchronize the device status with the database.",
+        "message": {
+          "readytorestore": "Are you sure to restore from System Backup",
+          "finishrestore": "System Restore Completed.",
+          "readytorestorefromupload": "Are you sure to restore from your upload file",
+          "uploadbackup": "Upload Backup File",
+          "choosefrombackup": "Choose From System Backup"
+        }
+      },
+      "factoryreset": {
+        "title": "Factory Reset",
+        "message": {
+          "readytoreset": "Are you sure to factry reset this controller?",
+          "intro": "This action will erase all configuraion of the controller, please backup before proceed the factory reset."
+        }
+      },
+      "systemupdate": {
+        "currentversion": "Current Version",
+        "message": {
+          "uptodate": "The system is up to date.",
+          "updateavaliable": "Update Avaliable",
+          "readytoupdate": "is avaliable. Are you ready to update the system?",
+          "downloadandinstall": "Downloading New Update",
+          "upgradecompleteandrebooting": "Installing, it may takes up to 3 minutes",
+          "finishupgrade": "Update Completed",
+          "checkupdate": "Check Update"
+        }
+      },
+      "connectsomfy": {
+        "synceddevices": "Synchronized Devices",
+        "message": {
+          "desc": "Please input your Somfy account to integrate your smart curtains to the system.",
+          "sync": "Synchronized Devices: "
+        }
+      },
+      "connecthunter": {
+        "synceddevices": "Synchronized Devices",
+        "message": {
+          "desc": "Please input your Powerview IP address to integrate your smart curtains to the system.",
+          "sync": "Synchronized Devices: "
+        }
+      },
+      "setting": {
+        "title": "Settings",
+        "customization": {
+          "title": "Customization",
+          "devices": {
+            "edit": "Edit Device"
+          }
+        },
+        "configuration": {
+          "title": "Configuration",
+          "restrictedroom": "Room Restriction",
+          "instantlighting": "Instant Lighting"
+        },
+        "systemtool": {
+          "title": "System Tools",
+          "initialize": "Initialize System",
+          "connectsomfy": "Connect Somfy",
+          "scandevice": "Scan Lighting Device",
+          "removedevice": "Remove Device",
+          "integrations": "Integrations",
+          "devicenaming": "Device Naming",
+          "programlocation": "Program Location",
+          "recoverlocation": "Recover Location",
+          "backup": "Backup",
+          "systemrestore": "System Restore",
+          "factoryreset": "Factory Reset",
+          "systemupdate": "System Update",
+          "remotesupport": "Remote Support",
+          "appversion": "App Version",
+          "logout": "Logout"
+        },
+        "message": {
+          "requirenewerverison": "Please updte your controller to use this function."
+        }
+      }
+    }
+  }
+}
